@@ -29,8 +29,7 @@ To use the application, follow these steps:
 5. Utilize the application's features to match vehicles with optimal routes, assist in finding parking slots, and detect traffic violations.
 
 ## Contributors
-- Giorgos Gitopoulos - [@johnsmith](https://github.com/johnsmith)
-- Jane Doe - [@janedoe](https://github.com/janedoe)
+- Giorgos Gitopoulos - [@georgegito](https://github.com/georgegito)
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
