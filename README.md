@@ -20,13 +20,6 @@ The database design for the application includes:
 - Relational model for defining tables and attributes.
 - Examples demonstrating the database's functionality.
 
-## Usage
-To use the application, follow these steps:
-1. Install the necessary dependencies and libraries.
-2. Configure the electronic methods, voice activation methods, and sensors to collect relevant data.
-3. Connect the application to the smart city infrastructure for data integration.
-4. Run the application and start collecting data for traffic management purposes.
-5. Utilize the application's features to match vehicles with optimal routes, assist in finding parking slots, and detect traffic violations.
 
 ## Contributors
 - Giorgos Gitopoulos - [@georgegito](https://github.com/georgegito)
