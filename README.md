@@ -10,8 +10,6 @@ The main objectives of the application are:
 
 A smart city is a technologically advanced urban area that leverages data collection and analysis to enhance various aspects of city operations, including traffic management.
 
-## Repository
-The project repository can be found [here](https://github.com/christos99/smart-traffic-management-database).
 
 ## Database Design
 The database design for the application includes:
