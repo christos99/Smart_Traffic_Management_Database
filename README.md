@@ -21,6 +21,7 @@ The database design for the application includes:
 
 ## Contributors
 - Giorgos Gitopoulos - [@georgegito](https://github.com/georgegito)
+- Antonis Mavridis - [@](https://github.com/)
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
