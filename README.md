@@ -1,7 +1,5 @@
 # 🚦 Smart-Traffic-Management-Database/Application (smart-traffic-management-app-db)
 
-# Smart Traffic Management App Database (smart-traffic-management-app-db)
-
 ## Description
 This project encompasses the theoretical design and implementation of a database for a smart traffic management application within a smart city framework. The application leverages electronic methods, voice recognition, and a network of sensors to gather pertinent data that enhances city-wide traffic operations and management.
 
